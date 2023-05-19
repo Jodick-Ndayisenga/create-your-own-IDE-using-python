@@ -1,6 +1,6 @@
 #CREATE YOUR OWN IDE USING SIMPLE PYTHON CODE
 
-##snippet that implements a basic Python Integrated Development Environment (IDE) with ##execution capabilities. The code utilizes the Tkinter library for ##creating the GUI ##components and subprocess for executing Python scripts. Let's delve into the details of ##each section.
+##This is a snippet code that implements a basic Python Integrated Development Environment (IDE) with ##execution capabilities. The code utilizes the Tkinter library for ##creating the GUI ##components and subprocess for executing Python scripts. Let's delve into the details of ##each section.
 
 the code starts by importing the necessary libraries which are tkinter and subprocess.
 we also import imported asksaveasfilene and askopenasfilename functions to be able to interact with the system repositories.
